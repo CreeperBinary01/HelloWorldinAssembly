@@ -32,4 +32,4 @@ _main:
 message:
     db      'Hello, World', 10
 message_end:
-;this is only for nasm
+;you can only run it in nasm
